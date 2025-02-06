@@ -3,4 +3,4 @@
 
 Click Image for Action Video:
 
-[![Amaterasu](Amaterasu_img.jpg)(https://youtu.be/mDpNAB4gDJc)]
+[![Amaterasu](Amaterasu_img.jpg)](https://youtu.be/mDpNAB4gDJc)
